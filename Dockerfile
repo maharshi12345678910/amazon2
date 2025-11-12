@@ -1,5 +1,6 @@
 # 1. Use a lightweight Java runtime base image
-FROM openjdk:17-jdk-alpine
+FROM openjdk:17-jdk
+
 
 
 # 2. Create a directory for the app
