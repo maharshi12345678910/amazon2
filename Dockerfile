@@ -1,5 +1,5 @@
 # 1. Use a lightweight Java runtime base image
-FROM openjdk:17-jdk
+FROM openjdk:17-jdk-slim
 
 
 
